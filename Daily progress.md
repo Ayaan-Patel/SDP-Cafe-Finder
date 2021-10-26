@@ -8,3 +8,4 @@ Oct 26: searchbar and databse. on the prosses of learning and building the datab
 ### Said
 
 ### Ayaan
+Oct 26: Wrapping up work on planning, timeline and detailed problem analysis
