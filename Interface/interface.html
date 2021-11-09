@@ -1,0 +1,57 @@
+
+<!DOCTYPE html>
+<head>
+    <title>still havn't decided</title> 
+    <meta charset="utf-8">
+    <link> rel="shortcut icon" href="">
+    <style>
+        body {
+            margin: 0;
+
+        }
+
+        .container{
+            width: 100vw;
+            height: 100vh;
+            font-family: 'quicksand', sans-serif;
+            font-weight: bold;
+            font-size: 20px;
+
+            display: grid;
+
+
+            grid-template-columns: 1fr 1fr 1fr;
+            grid-template-rows: 50px 1fr 1fr 100px;
+
+            gap: 10px;
+
+            padding: 10px;
+            box-sizing: border-box;
+
+        }
+        .container div{
+            padding: 10px;
+            border: 1px solid black;
+        }
+
+        .header{
+            grid-column-start: 1;
+            grid-column-end: 4;
+        }
+
+        .footer{
+            grid-column:1 / span 3 ;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div> class="header">Header</div>
+        <div> class="content-small">content-1</div>
+        <div> class="content-small">content-2</div>
+        <div> class="content-small">content-3</div>
+        <div> class="content-small">content-4</div>
+        <div> class="footer">footer</div>
+    </div>
+
+</body>
