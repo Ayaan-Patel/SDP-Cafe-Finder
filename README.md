@@ -1,5 +1,6 @@
 # Welcome
 This is where we can work on our software development project
+
 Our site: https://ayaan-patel.github.io/SDP-Cafe-Finder/
 
 ## Project description: 
