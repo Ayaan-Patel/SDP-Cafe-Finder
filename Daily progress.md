@@ -1,4 +1,4 @@
-# Hey everyone, please document your daily progress here under your name
+# Add your daily acheivements, or simply commit to Github.
 
 ### Isabella:
 Oct 26: searchbar and databse. on the prosses of learning and building the database with SQL
