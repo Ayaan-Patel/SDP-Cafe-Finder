@@ -27,3 +27,5 @@ Oct 26: Wrapping up work on planning, timeline and detailed problem analysis
 Oct 27: Finished problem analysis, ready to present
 
 Nov 10th: Finished major work on website
+
+Nov 13th: Hosted site online with GitPages
